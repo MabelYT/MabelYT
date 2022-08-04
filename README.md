@@ -8,7 +8,6 @@
   - MabelHUB - App Store GUI + CLI
   - MabelMedia.SharpPlus - Cross Platform Development Framework.
   - MabelLinux-Utils - A Collection Of Utilities For Linux.
-  - MabelisYT - My Youtube Channel.
   - "Meiberu-Chan Wasnts To Say Hey!" - A Manga, With Original Characters/ Story Writing.
   - MabelAssist - A Virtual Assistant.
 
