@@ -3,7 +3,7 @@
 - I'm Mabel, A CatGirl Vtuber! (Debut Soon™)
 - My Pronouns Are: `She/Her`.
 - Here's A List Of My Projects:
-  - Clock - MabelMedia Clock - The Modern, Flexible Cross Platform Clock.
+  - MabelMedia Clock - The Modern, Flexible Cross Platform Clock.
   - csvsp - An Open Source Script To Create C# VS Solutions.
   - Docs - The MabelMedia Documentation Hub.
   - DroneM - An Educational Malware, Designed To Perform Malicious Actions Inside Analysis Environments.
