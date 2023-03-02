@@ -6,7 +6,6 @@
   - MabelMedia Clock - The Modern, Flexible Cross Platform Clock.
   - csvsp - An Open Source Script To Create C# VS Solutions.
   - Docs - The MabelMedia Documentation Hub.
-  - DroneM - An Educational Malware, Designed To Perform Malicious Actions Inside Analysis Environments.
   - MabelBasic - A Basic Interpreter, With Graphics Functionality.
   - MabelBBS - A Client + Server Self Hosted BBS System.
   - MabelHEX - A Cross Platform Hex Editor.
