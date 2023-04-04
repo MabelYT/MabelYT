@@ -3,15 +3,24 @@
 - I'm Mabel, A CatGirl Vtuber! (Debut Soon™)
 - My Pronouns Are: `She/Her`.
 - Here's A List Of My Projects:
-  - MabelMedia Clock - The Modern, Flexible Cross Platform Clock.
-  - csvsp - An Open Source Script To Create C# VS Solutions.
-  - Docs - The MabelMedia Documentation Hub.
-  - MabelBasic - A Basic Interpreter, With Graphics Functionality.
-  - MabelBBS - A Client + Server Self Hosted BBS System.
-  - MabelHEX - A Cross Platform Hex Editor.
-  - MabelHUB - App Store GUI + CLI.
-  - MabelHUB Package Creator - A GUI Wrapper Around MabelHUB-CLI's "create" Command, With Script Creation Support.
-  - MabelMedia.SharpPlus - Cross Platform Development Framework.
-  - MabelTerm - A Cross Platform Terminal Client.
+  - SharpPlus Apps:
+    - MabelMedia.SharpPlus - Cross Platform Development Framework.
+    - SharpPlus Demo - A Demo Of All The New SharpPlus APIs.
+    - NotifyServer - The Notification Server Stack, Deployed By MabelHUB.
+    - MabelHUB - App Store GUI + CLI.
+    - MabelHUB Package Creator - A GUI Wrapper Around MabelHUB-CLI's "create" Command, With Script Creation Support.
+    - MabelTerm - A Cross Platform Terminal Client.
+    - Startup Manager - Manage Which Apps Run At Startup.
+    - MabelHEX - A Cross Platform Hex Editor.
+    - MabelBBS - A Client + Server Self Hosted BBS System.
+    - MabelBasic - A Basic Interpreter, With Graphics Functionality.
+
+  - Internal Projects: 
+    - BadYT - A List Of Youtube Channels That Violate Youtube's TOS.
+    - csvsp - An Open Source Script To Create C# VS Solutions.
+    - Docs - The MabelMedia Documentation Hub.
+    - MabelisYT VTuber Model - My VTuber Model Project.
+    - MabelOS - An Operating System.
+    - MabelAssist - A Personal Assistant.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
