@@ -13,7 +13,6 @@
     - Startup Manager - Manage Which Apps Run At Startup.
     - MabelHEX - A Cross Platform Hex Editor.
     - MabelBBS - A Client + Server Self Hosted BBS System.
-    - MabelBasic - A Basic Interpreter, With Graphics Functionality.
 
   - Internal Projects: 
     - BadYT - A List Of Youtube Channels That Violate Youtube's TOS.
