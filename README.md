@@ -21,6 +21,5 @@
     - Docs - The MabelMedia Documentation Hub.
     - MabelisYT VTuber Model - My VTuber Model Project.
     - MabelOS - An Operating System.
-    - MabelAssist - A Personal Assistant.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
