@@ -14,11 +14,10 @@
     - MabelHEX - A Cross Platform Hex Editor.
     - MabelBBS - A Client + Server Self Hosted BBS System.
 
-  - Internal Projects: 
+  - Other Projects: 
     - BadYT - A List Of Youtube Channels That Violate Youtube's TOS.
     - csvsp - An Open Source Script To Create C# VS Solutions.
     - Docs - The MabelMedia Documentation Hub.
-    - MabelisYT VTuber Model - My VTuber Model Project.
     - MabelOS - An Operating System.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
