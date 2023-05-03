@@ -6,7 +6,6 @@
   - SharpPlus Apps:
     - MabelMedia.SharpPlus - Cross Platform Development Framework.
     - SharpPlus Demo - A Demo Of All The New SharpPlus APIs.
-    - NotifyServer - The Notification Server Stack, Deployed By MabelHUB.
     - MabelHUB - App Store GUI + CLI.
     - MabelHUB Package Creator - A GUI Wrapper Around MabelHUB-CLI's "create" Command, With Script Creation Support.
     - MabelTerm - A Cross Platform Terminal Client.
