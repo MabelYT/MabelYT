@@ -16,7 +16,7 @@ Games:
   - ClickIt: Inferno - A Mobile Idle Clicker Game, For Android.
 
 Other Projects: 
-    - csvsp - An Open Source Script To Create C# VS Solutions.
-    - Docs - The MabelMedia Documentation Hub.
+  - csvsp - An Open Source Script To Create C# VS Solutions.
+  - Docs - The MabelMedia Documentation Hub.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
