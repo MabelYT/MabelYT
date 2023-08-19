@@ -12,11 +12,10 @@ SharpPlus Apps:
   - MabelHEX - A Cross Platform Hex Editor.
   - MabelBBS - A Client + Server Self Hosted BBS System.
 
-Games:
-  - ClickIt: Inferno - A Mobile Idle Clicker Game, For Android.
-
 Other Projects: 
   - csvsp - An Open Source Script To Create C# VS Solutions.
   - Docs - The MabelMedia Documentation Hub.
+  - MabelDOS - A Collection Of Essential Utilities, Custom Built Installer, And Development Framework For DOS Compatible Operating Systems.
+  - MabelCFW - A Custom Firmware For The Nintendo DSi. Made For Fun, On A Really Old Device.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
