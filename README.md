@@ -11,7 +11,6 @@ SharpPlus Apps:
   - Startup Manager - Manage Which Apps Run At Startup.
   - MabelHEX - A Cross Platform Hex Editor.
   - MabelBBS - A Client + Server Self Hosted BBS System.
-  - Settings - A Modern Settings App, For Managing The Settings Of MabelHUB Apps.
 
 Minecraft Fabric Mods:
   - GlobalBan-MC - A Global Multiplayer Banning System, To Stop Scammers, Hackers, And Other Bad Players.
