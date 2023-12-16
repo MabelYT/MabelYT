@@ -20,6 +20,5 @@ Minecraft Fabric Mods:
 Other Projects:
   - MabelDOS - A Collection Of Essential Utilities, Custom Built Installer, And Development Framework For DOS Compatible Operating Systems.
   - MabelOS - A Basic UEFI Bootloader Prototype.
-  - URLScan - Block Malware, Phishing, And Other Harmful Urls With A User-Contributable Blocklist.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
