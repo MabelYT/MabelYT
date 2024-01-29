@@ -13,12 +13,10 @@ SharpPlus Apps:
   - MabelBBS - A Client + Server Self Hosted BBS System.
 
 Minecraft Fabric Mods:
-  - GlobalBan-MC - A Global Multiplayer Banning System, To Stop Scammers, Hackers, And Other Bad Players.
   - Rising Lava Challenge - Experience The Thrill Of The Classic Youtube Minecraft Challenge Video: "Every N Seconds, The Lava Rises".
   - SuperSimpleHome - A Super Simple Home Management System (Set And TP To Your Home Point Without OP Perms).
 
 Other Projects:
   - MabelDOS - A Collection Of Essential Utilities, Custom Built Installer, And Development Framework For DOS Compatible Operating Systems.
-  - MabelOS - A Basic UEFI Bootloader Prototype.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
