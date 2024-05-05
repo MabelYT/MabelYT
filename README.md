@@ -10,8 +10,6 @@ Minecraft Fabric Mods:
 
 Other Projects:
   - MabelDOS - A Collection Of Essential Utilities, Custom Built Installer, And Development Framework For DOS Compatible Operating Systems.
-  - MabelArch - A Custom 64-Bit CPU Architecture Emulator, Assembler + ISA.
-  - MabelOS - The Modern, Flexible OS, That Works For You.
   - Profane-rs - A Rust Crate To Check Messages For Profanity/Swearing.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
