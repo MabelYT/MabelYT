@@ -12,3 +12,6 @@ Other Projects:
   - QuicBuild - Building Rust Programs, Made Simple.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
+
+## More Info
+https://linktr.ee/MabelisYT
