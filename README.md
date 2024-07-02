@@ -16,7 +16,6 @@ Other Projects:
 Internal Projects:
   - FileStor - A Weird Way To Get infinite Free Cloud Storage.
   - GraphicsEngine - A Rust-Based Graphics Engine, With Scalable Raster Font And Accelerated 2D Sprite/Tile Rendering.
-  - MabelBEO - A Rust, TcpStream-Based Diskless Beowulf Cluster Framework, For Distributing Work Across Many Compute Nodes.
   - MabelOS [ Development Stuck ] - A Modern, Flexible OS, That Works For You.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
