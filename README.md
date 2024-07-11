@@ -1,7 +1,6 @@
 ### Hi!
 
 - I'm Mabel, A CatGirl VTuber!
-- My Pronouns Are: `She/Her`.
 - Here's A List Of My Projects:
 
 Minecraft Fabric Mods:
