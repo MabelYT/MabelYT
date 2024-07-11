@@ -1,6 +1,6 @@
 ### Hi!
 
-- I'm Mabel, A CatGirl Vtuber! (Debut Soon™)
+- I'm Mabel, A CatGirl Vtuber!
 - My Pronouns Are: `She/Her`.
 - Here's A List Of My Projects:
 
