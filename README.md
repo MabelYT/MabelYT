@@ -35,6 +35,6 @@ Internal Projects:
 - MabelRPG (Not Ready) - An Earthbound Inspired Turn Based RPG Game. ( No Game Engine )
 
 MabelHUB Projects:
-  - MabelHUB
+  - MabelHUB - The Modern, Flexible Cross-Platform Package Manager, That Works For You.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
