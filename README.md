@@ -36,6 +36,6 @@ MabelHUB Projects:
   - QuicBUild - Building Rust Programs, Made Simple.
   - MabelBBS - A Simple, Modern BBS Client And Server Pairing.
   - MabelHUB-Interop [Internal] - Common Code Shared Between MabelHUB Apps.
-  - TestUI - Testing Code For SharpPlusNative's UI Toolkit. (To Determine It's Viability For A GUI App Store Front-End For MabelHUB.
+  - TestUI [Internal] - Testing Code For SharpPlusNative's UI Toolkit. (To Determine It's Viability For A GUI App Store Front-End For MabelHUB.
 
 Please Read <a href="https://github.com/MabelMedia-LLC/MCSPSL/">The Licence</a> For More Info On My Software Licence.
